@@ -1,6 +1,9 @@
 
 # Awesome Notifications for Flutter
 
+### To fix intl dependency version compatibility problem:
+### intl ^0.18.0
+
 ![](https://raw.githubusercontent.com/rafaelsetragni/awesome_notifications/master/example/assets/readme/awesome-notifications.jpg)
 <div>
 
